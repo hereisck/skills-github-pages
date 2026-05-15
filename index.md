@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my CK's blog!
 ---
+# Promises to be a fun adventure.
